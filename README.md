@@ -1,6 +1,6 @@
 Project Name: 'Fruit Basket'
 
-Project Link: 
+Project Link:  https://sagarkadu16.github.io/masai-sprint-1/. 
 
 ![Landing Page](./resources/fruitbasket.png)
 
